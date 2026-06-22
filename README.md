@@ -9,12 +9,6 @@ Exploratory Data Analysis (EDA) project on Gurgaon residential properties.
 - main.py
 - requirements.txt
 
-Run:
-```bash
-pip install -r requirements.txt
-python main.py
-```
-#  Gurgaon Real Estate Analysis
 
 # Project Overview
 This project performs Exploratory Data Analysis (EDA) on residential properties in Gurgaon to generate business insights for buyers, investors, and developers.
